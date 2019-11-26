@@ -1,0 +1,22 @@
+{
+  "name": "zdean-cli",
+  "version": "1.1.2",
+  "description": "",
+  "main": "",
+  "bin": {
+    "zd": "./bin/zd.js",
+    "zd-init": "./bin/zd-init.js",
+    "zd-list": "./bin/zd-list.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.0.1",
+    "download-git-repo": "^3.0.2",
+    "ora": "^4.0.3"
+  }
+}
