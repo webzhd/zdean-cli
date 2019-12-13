@@ -1,5 +1,5 @@
     
 {
     "vue": "webzhd/vue-template",
-    "react": "webzhd/react-template"
+    "react-ts": "webzhd/react-ts-template"
 }

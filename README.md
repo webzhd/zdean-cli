@@ -25,5 +25,5 @@
 > 下载 React 模板
 
 ```shell
-    zd init react myapp
+    zd init react-ts myapp
 ```
